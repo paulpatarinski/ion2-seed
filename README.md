@@ -9,4 +9,5 @@ Steps :
 5. Add platforms (ionic platform add ios && ionic platform add android)
 6. Update app icon (1024x1024) under ~/resources & run npm run resources
 7. Update splash screen (2208x2208) under ~/resources & run npm run resources
+- Make sure you have padding around the image to allow for cropping
 8. Update remote & push changes

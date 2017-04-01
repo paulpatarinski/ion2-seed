@@ -24,7 +24,7 @@ Steps :
     * App Store
     
     ```
-    sigh --adhoc
+    sigh
     ```
    
     

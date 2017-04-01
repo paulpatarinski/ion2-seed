@@ -14,6 +14,19 @@ Steps :
   ```
   fastlane produce
   ```
+  * Generate Provisioning Profiles
+    * Ad-Hoc
+ 
+    ```
+    sigh --adhoc
+    ```
+    
+    * App Store
+    
+    ```
+    sigh --adhoc
+    ```
+   
     
 6. Add platforms (ionic platform add ios && ionic platform add android)
 7. Splash Screen & App Icon
